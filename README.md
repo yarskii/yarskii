@@ -60,9 +60,8 @@
 
 Если вы хотите обсудить проекты, предложить сотрудничество или просто поговорить о технологиях, свяжитесь со мной:
 
-- 📧 Email: [yarskii@example.com](mailto:yarskii@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/yarskii](https://www.linkedin.com/in/yarskii)
-- 🌍 Сайт: [yarskii.com](https://yarskii.com)
+- 📧 Email: [yarigusev@gmail.com](mailto:yarigusev@gmail.com)
+- 🔗 Telegram: [t.me/Yar_Gusev](https://t.me/Yar_Gusev)
 
 ---
 
