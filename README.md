@@ -6,29 +6,29 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Web%2C+API%2C+QA+Engineer" alt="Typing SVG" />
   </a>
-  <p style="margin-top: 10px; font-size: 18px; color: #3776AB;">
+  <p style="margin-top: 10px; font-size: 18px;">
     Тестировщик | Автоматизатор | Python Developer  
   </p>
-  <p style="margin-top: 10px; font-size: 18px; color: #3776AB;">
+  <p style="margin-top: 10px; font-size: 18px;">
     Специализируюсь на автоматизации тестирования веб и мобильных приложений 
   </p>
-  <blockquote style="margin-top: 15px; font-size: 16px; color: #555;">
+  <blockquote style="margin-top: 15px; font-size: 16px;">
     "Тестирование — это процесс выявления дефектов до того, как они достигнут конечного пользователя."
   </blockquote>
 
-  <h2 style="color: #3776AB;">Обо мне</h2>
-  <p style="color: #555;">
+  <h2>Обо мне</h2>
+  <p>
     Я занимаюсь автоматизацией тестирования веб-сайтов и мобильных приложений.  
     Моя цель — создавать надежные системы тестирования, которые помогают командам выпускать качественный продукт.
   </p>
 </div>
-<ul style="text-align: left; display: inline-block; color: #333;">
+<ul>
 <li>В настоящее время работаю над проектом автоматизации тестирования для компании.</li>
 <li>Изучаю новые инструменты для CI/CD и DevOps.</li>
 <li>Спрашивайте меня о Python, Selenium, Appium, Jenkins.</li>
 </ul>
 <div align="center">
-  <h3 style="color: #3776AB;">Навыки</h3>
+  <h3>Навыки</h3>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
