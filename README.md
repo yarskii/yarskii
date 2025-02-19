@@ -76,9 +76,9 @@
 Если вы хотите обсудить проекты, предложить сотрудничество или просто поговорить о технологиях, свяжитесь со мной:
 
   <a href="mailto:yarigusev@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
+    <img src="https://img.shields.io/badge/Email-yarigusev@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
   </a>
-    <a href="https://t.me/Yar_Gusev">
+  <a href="https://t.me/Yar_Gusev">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
