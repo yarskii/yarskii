@@ -2,19 +2,20 @@
 </h1>
 
 
-<div align="center" style="padding: 20px; border: 1px solid #3776AB; border-radius: 10px; background-color: #f9f9f9;">
+<div align="center" style="padding: 20px; border: 1px solid #3776AB; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Web%2C+API%2C+QA+Engeneer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Web%2C+API%2C+QA+Engineer" alt="Typing SVG" />
   </a>
   <p style="margin-top: 10px; font-size: 18px; color: #3776AB;">
     Тестировщик | Автоматизатор | Python Developer  
   </p>
-<p style="margin-top: 10px; font-size: 18px; color: #3776AB;">
+  <p style="margin-top: 10px; font-size: 18px; color: #3776AB;">
     Специализируюсь на автоматизации тестирования веб и мобильных приложений 
   </p>
+  <blockquote style="margin-top: 15px; font-size: 16px; color: #555;">
+    "Тестирование — это искусство находить проблемы до пользователей."
+  </blockquote>
 </div>
-
-> "Тестирование — это искусство находить проблемы до пользователей."
 
 ---
 
