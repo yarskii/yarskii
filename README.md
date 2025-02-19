@@ -37,7 +37,6 @@
 
 ## 📈 Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yarskii&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarskii&layout=compact&theme=radical)
 
 ---
