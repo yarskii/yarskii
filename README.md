@@ -1,4 +1,26 @@
-# Привет! Я Ярослав Гусев
+<h1 align="center">Привет! Меня зовут Ярослав <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> 
+</h1>
+
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=36&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Web%2C+API%2C+Mobile+AQA+Engineer" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=36&pause=1000&gradient=true&lines=Web%2C+API%2C+Mobile+AQA+Engineer" alt="Typing SVG" />
+  </a>
+</div>
+
+[//]: # (<div align="center">)
+
+[//]: # (  <img src="https://skillicons.dev/icons?i=python,javascript,java,docker,git,kubernetes&perline=6" alt="Skills" />)
+
+[//]: # (</div>)
+
+
 
 Тестировщик | Автоматизатор | Python Developer  
 Специализируюсь на автоматизации тестирования веб и мобильных приложений
@@ -22,7 +44,7 @@
 
 ### Языки программирования и инструменты:
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=chrome&logoColor=white" alt="Chrome" />
@@ -39,7 +61,12 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,selenium,jenkins,allure,telegram,pytest,pycharm,androidstudio,jira,postman,appium,browserstack,django,css,html,ubuntu" alt="Skills" />
+</div>
 
 ---
 
@@ -63,8 +90,15 @@
 
 Если вы хотите обсудить проекты, предложить сотрудничество или просто поговорить о технологиях, свяжитесь со мной:
 
-- Email: [yarigusev@gmail.com](mailto:yarigusev@gmail.com)
-- Telegram: [t.me/Yar_Gusev](https://t.me/Yar_Gusev)
+
+<div align="center">
+  <a href="mailto:yarigusev@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
+  </a>
+    <a href="https://t.me/Yar_Gusev">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
 
 ---
 
