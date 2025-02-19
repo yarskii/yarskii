@@ -16,7 +16,7 @@
     "Тестирование — это процесс выявления дефектов до того, как они достигнут конечного пользователя."
   </blockquote>
 
-  <h2>Обо мне</h2>
+<h2>Обо мне</h2>
   <p>
     Я занимаюсь автоматизацией тестирования веб-сайтов и мобильных приложений.  
     Моя цель — создавать надежные системы тестирования, которые помогают командам выпускать качественный продукт.
@@ -25,7 +25,6 @@
 <ul>
 <li>В настоящее время работаю над проектом автоматизации тестирования для компании.</li>
 <li>Изучаю новые инструменты для CI/CD и DevOps.</li>
-<li>Спрашивайте меня о Python, Selenium, Appium, Jenkins.</li>
 </ul>
 <div align="center">
   <h3>Навыки</h3>
@@ -53,8 +52,9 @@
 ---
 
 ---
-
-## Проекты
+<div align="center">
+  <h3>Проекты</h3>
+</div>
 
 ### 1. **Автоматизация тестирования сайта Петрович**
 
@@ -63,19 +63,18 @@
 - Ссылка: [github.com/yarskii/petrovich](https://github.com/yarskii/petrovich)
 
 ---
-
-## Статистика
+<div align="center">
+  <h2>Статистика</h2>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarskii&layout=compact&theme=radical)
+</div>
 
 ---
-
-## Связь
+<div align="center">
+  <h2>Связь</h2>
 
 Если вы хотите обсудить проекты, предложить сотрудничество или просто поговорить о технологиях, свяжитесь со мной:
 
-
-<div align="center">
   <a href="mailto:yarigusev@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
   </a>
@@ -85,8 +84,9 @@
 </div>
 
 ---
-
-## Поддержка
+<div align="center">
+  <h2>Поддержка</h2>
 
 Если вам понравился мой профиль или мои проекты, поставьте звезду ⭐️ на моих репозиториях. Это мотивирует меня
 продолжать развиваться!
+</div>
