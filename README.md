@@ -1,25 +1,27 @@
-# 👋 Привет! Я Ярослав Гусев
-💻 Тестировщик | Автоматизатор | Python Developer
-🎯 Специализируюсь на автоматизации тестирования веб и мобильных приложений
+# Привет! Я Ярослав Гусев
+
+Тестировщик | Автоматизатор | Python Developer  
+Специализируюсь на автоматизации тестирования веб и мобильных приложений
 
 > "Тестирование — это искусство находить проблемы до пользователей."
 
 ---
 
-## 🌟 Обо мне
+## Обо мне
 
 Я занимаюсь автоматизацией тестирования веб-сайтов и мобильных приложений.  
 Моя цель — создавать надежные системы тестирования, которые помогают командам выпускать качественный продукт.
 
-- 🔭 В настоящее время работаю над проектом автоматизации тестирования для [компании].
-- 🌱 Изучаю новые инструменты для CI/CD и DevOps.
-- 💬 Спрашивайте меня о Python, Selenium, Appium, Jenkins.
+- В настоящее время работаю над проектом автоматизации тестирования для компании.
+- Изучаю новые инструменты для CI/CD и DevOps.
+- Спрашивайте меня о Python, Selenium, Appium, Jenkins.
 
 ---
 
-## 🛠 Навыки
+## Навыки
 
 ### Языки программирования и инструменты:
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
@@ -41,30 +43,32 @@
 
 ---
 
-## 📚 Проекты
+## Проекты
 
 ### 1. **Автоматизация тестирования сайта Петрович**
-- **Описание**: Проект автоматизации тестирования веб-сайта компании СТД Петрович.
-- **Технологии**: Python, Selene, Allure, Jenkins, Appium, Postman.
-- **Ссылка**: [github.com/yarskii/petrovich](https://github.com/yarskii/petrovich)
+
+- Описание: Проект автоматизации тестирования веб-сайта компании СТД Петрович.
+- Технологии: Python, Selene, Allure, Jenkins, Appium, Postman.
+- Ссылка: [github.com/yarskii/petrovich](https://github.com/yarskii/petrovich)
 
 ---
 
-## 📈 Статистика
+## Статистика
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarskii&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Связь
+## Связь
 
 Если вы хотите обсудить проекты, предложить сотрудничество или просто поговорить о технологиях, свяжитесь со мной:
 
-- 📧 Email: [yarigusev@gmail.com](mailto:yarigusev@gmail.com)
-- 🔗 Telegram: [t.me/Yar_Gusev](https://t.me/Yar_Gusev)
+- Email: [yarigusev@gmail.com](mailto:yarigusev@gmail.com)
+- Telegram: [t.me/Yar_Gusev](https://t.me/Yar_Gusev)
 
 ---
 
-## ⭐️ Поддержка
+## Поддержка
 
-Если вам понравился мой профиль или мои проекты, поставьте звезду ⭐️ на моих репозиториях. Это мотивирует меня продолжать развиваться!
+Если вам понравился мой профиль или мои проекты, поставьте звезду ⭐️ на моих репозиториях. Это мотивирует меня
+продолжать развиваться!
