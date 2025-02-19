@@ -19,70 +19,40 @@
 
 ---
 
-<div align="center" style="padding: 20px; border: 1px solid #3776AB; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <h2>Обо мне</h2>
-  <p>
+<div align="center">
+  <h2 style="color: #3776AB;">Обо мне</h2>
+  <p style="color: #555;">
     Я занимаюсь автоматизацией тестирования веб-сайтов и мобильных приложений.  
     Моя цель — создавать надежные системы тестирования, которые помогают командам выпускать качественный продукт.
   </p>
-  <ul style="text-align: left; display: inline-block;">
+  <ul style="text-align: left; display: inline-block; color: #333;">
     <li>В настоящее время работаю над проектом автоматизации тестирования для компании.</li>
     <li>Изучаю новые инструменты для CI/CD и DevOps.</li>
     <li>Спрашивайте меня о Python, Selenium, Appium, Jenkins.</li>
   </ul>
-  <h3>Навыки</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="animation: fadeIn 1s ease-in-out;" />
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" style="animation: fadeIn 1.2s ease-in-out;" />
-    <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=chrome&logoColor=white" alt="Chrome" style="animation: fadeIn 1.4s ease-in-out;" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" style="animation: fadeIn 1.6s ease-in-out;" />
-    <!-- Добавьте остальные иконки -->
+  <h3 style="color: #3776AB;">Навыки</h3>
+  <div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+    <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=chrome&logoColor=white" alt="Chrome" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+    <img src="https://img.shields.io/badge/Allure-4285F4?style=for-the-badge&logo=allure&logoColor=white" alt="Allure" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Pytest-0A6ED1?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/Appium-68A0E5?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
+    <img src="https://img.shields.io/badge/BrowserStack-0DB6F5?style=for-the-badge&logo=browserstack&logoColor=white" alt="BrowserStack" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   </div>
 </div>
 
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(-10px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-</style>
-
 ---
-
-## Обо мне
-
-Я занимаюсь автоматизацией тестирования веб-сайтов и мобильных приложений.  
-Моя цель — создавать надежные системы тестирования, которые помогают командам выпускать качественный продукт.
-
-- В настоящее время работаю над проектом автоматизации тестирования для компании.
-- Изучаю новые инструменты для CI/CD и DevOps.
-- Спрашивайте меня о Python, Selenium, Appium, Jenkins.
-
----
-
-## Навыки
-
-### Языки программирования и инструменты:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=chrome&logoColor=white" alt="Chrome" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Allure-4285F4?style=for-the-badge&logo=allure&logoColor=white" alt="Allure" />
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  <img src="https://img.shields.io/badge/Pytest-0A6ED1?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Appium-68A0E5?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
-  <img src="https://img.shields.io/badge/BrowserStack-0DB6F5?style=for-the-badge&logo=browserstack&logoColor=white" alt="BrowserStack" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</div>
 
 ---
 
