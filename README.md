@@ -49,9 +49,7 @@
   </div>
 </div>
 
----
 
----
 <div align="center">
   <h3>Проекты</h3>
 </div>
@@ -62,14 +60,12 @@
 - Технологии: Python, Selene, Allure, Jenkins, Appium, Postman.
 - Ссылка: [github.com/yarskii/petrovich](https://github.com/yarskii/petrovich)
 
----
 <div align="center">
   <h2>Статистика</h2>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarskii&layout=compact&theme=radical)
 </div>
 
----
 <div align="center">
   <h2>Связь</h2>
 
@@ -83,7 +79,6 @@
   </a>
 </div>
 
----
 <div align="center">
   <h2>Поддержка</h2>
 
