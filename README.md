@@ -1,3 +1,11 @@
+<h1 align="center">  
+        Привет! Меня зовут Ярослав 
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#3776AB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a3 3 0 0 0-2.98-3.3H14z"></path>
+            <path d="M9 17h.01"></path>
+        </svg>  
+    </h1>
+
 <div align="center" style="padding: 20px; border: 1px solid #3776AB; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
     <h1 align="center">  
         Привет! Меня зовут Ярослав 
