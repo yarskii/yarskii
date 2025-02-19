@@ -19,6 +19,36 @@
 
 ---
 
+<div align="center" style="padding: 20px; border: 1px solid #3776AB; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h2>Обо мне</h2>
+  <p>
+    Я занимаюсь автоматизацией тестирования веб-сайтов и мобильных приложений.  
+    Моя цель — создавать надежные системы тестирования, которые помогают командам выпускать качественный продукт.
+  </p>
+  <ul style="text-align: left; display: inline-block;">
+    <li>В настоящее время работаю над проектом автоматизации тестирования для компании.</li>
+    <li>Изучаю новые инструменты для CI/CD и DevOps.</li>
+    <li>Спрашивайте меня о Python, Selenium, Appium, Jenkins.</li>
+  </ul>
+  <h3>Навыки</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="animation: fadeIn 1s ease-in-out;" />
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" style="animation: fadeIn 1.2s ease-in-out;" />
+    <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=chrome&logoColor=white" alt="Chrome" style="animation: fadeIn 1.4s ease-in-out;" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" style="animation: fadeIn 1.6s ease-in-out;" />
+    <!-- Добавьте остальные иконки -->
+  </div>
+</div>
+
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
+
+---
+
 ## Обо мне
 
 Я занимаюсь автоматизацией тестирования веб-сайтов и мобильных приложений.  
