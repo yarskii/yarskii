@@ -25,11 +25,13 @@
     Я занимаюсь автоматизацией тестирования веб-сайтов и мобильных приложений.  
     Моя цель — создавать надежные системы тестирования, которые помогают командам выпускать качественный продукт.
   </p>
-  <ul style="text-align: left; display: inline-block; color: #333;">
-    <li>В настоящее время работаю над проектом автоматизации тестирования для компании.</li>
-    <li>Изучаю новые инструменты для CI/CD и DevOps.</li>
-    <li>Спрашивайте меня о Python, Selenium, Appium, Jenkins.</li>
-  </ul>
+</div>
+<ul style="text-align: left; display: inline-block; color: #333;">
+<li>В настоящее время работаю над проектом автоматизации тестирования для компании.</li>
+<li>Изучаю новые инструменты для CI/CD и DevOps.</li>
+<li>Спрашивайте меня о Python, Selenium, Appium, Jenkins.</li>
+</ul>
+<div align="center">
   <h3 style="color: #3776AB;">Навыки</h3>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
