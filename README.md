@@ -16,7 +16,7 @@
     "Тестирование — это процесс выявления дефектов до того, как они достигнут конечного пользователя."
   </blockquote>
 </div>
-<div align="center" style="padding: 20px; border: 1px solid #3776AB; border-radius: 10px; background-color: #cce6ff !important; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+
 ---
 
 ## Обо мне
