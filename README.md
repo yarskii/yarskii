@@ -4,22 +4,9 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=36&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Web%2C+API%2C+Mobile+AQA+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Web%2C+API%2C+Тестировщик+Автоматизатор+Python Developer" alt="Typing SVG" />
   </a>
 </div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=36&pause=1000&gradient=true&lines=Web%2C+API%2C+Mobile+AQA+Engineer" alt="Typing SVG" />
-  </a>
-</div>
-
-[//]: # (<div align="center">)
-
-[//]: # (  <img src="https://skillicons.dev/icons?i=python,javascript,java,docker,git,kubernetes&perline=6" alt="Skills" />)
-
-[//]: # (</div>)
-
 
 
 Тестировщик | Автоматизатор | Python Developer  
@@ -62,10 +49,6 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,selenium,jenkins,allure,telegram,pytest,pycharm,androidstudio,jira,postman,appium,browserstack,django,css,html,ubuntu" alt="Skills" />
 </div>
 
 ---
