@@ -63,7 +63,9 @@
 <div align="center">
   <h2>Статистика</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarskii&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarskii&layout=donut&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yarskii&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarskii&repo=petrovich)](https://github.com/yarskii/petrovich)
 </div>
 
 <div align="center">
