@@ -59,12 +59,12 @@
 - Описание: Проект автоматизации тестирования веб-сайта компании СТД Петрович.
 - Технологии: Python, Selene, Allure, Jenkins, Appium, Postman.
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarskii&repo=petrovich&theme=tokyonight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarskii&repo=petrovich&theme=tokyonight)]
 
 <div align="center">
   <h2>Статистика</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarskii&layout=donut&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarskii&layout=donut&theme=tokyonight)]
 
 </div>
 
