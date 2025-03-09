@@ -1,5 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yarskii)]()
-
 <div align="center">
     <h1 align="center">  
         Привет! Меня зовут Ярослав 
@@ -56,22 +54,12 @@
   <h3>Проекты</h3>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="width: 48%;">
-    <a href="https://github.com/yarskii/petrovich">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yarskii&repo=petrovich&theme=tokyonight" alt="Petrovich Repo Card">
-    </a>
-    <p><strong>Описание</strong>: Проект автоматизации тестирования веб-сайта компании СТД Петрович.</p>
-    <p><strong>Технологии</strong>: Python, Selene, Allure, Jenkins, Appium, Postman.</p>
-  </div>
-  <div style="width: 48%;">
-    <a href="https://github.com/yarskii/avaclinic">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yarskii&repo=avaclinic&theme=tokyonight" alt="Avaclinic Repo Card">
-    </a>
-    <p><strong>Описание</strong>: Проект автоматизации тестирования компании Скандинавия.</p>
-    <p><strong>Технологии</strong>: Python, Selene, Allure, Jenkins, Appium, Postman.</p>
-  </div>
-</div>
+| **Автоматизация тестирования сайта Петрович**                                                                                                            | **Автоматизация тестирования Скандинавия**                                                                                                               |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarskii&repo=petrovich&theme=tokyonight)](https://github.com/yarskii/petrovich) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarskii&repo=avaclinic&theme=tokyonight)](https://github.com/yarskii/avaclinic) |
+| **Описание**: Проект автоматизации тестирования веб-сайта компании СТД Петрович.                                                                         | **Описание**: Проект автоматизации тестирования компании Скандинавия.                                                                                    |
+| **Технологии**: Python, Selene, Allure, Jenkins, Appium, Postman.                                                                                        | **Технологии**: Python, Selene, Allure, Jenkins, Appium, Postman.                                                                                        |
+
 <div align="center">
   <h2>Статистика</h2>
 
