@@ -54,13 +54,24 @@
   <h3>Проекты</h3>
 </div>
 
-
-| **Автоматизация тестирования сайта Петрович**                                                                                                            | **Автоматизация тестирования Скандинавия**                                                                                                               |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarskii&repo=petrovich&theme=tokyonight)](https://github.com/yarskii/petrovich) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarskii&repo=avaclinic&theme=tokyonight)](https://github.com/yarskii/avaclinic) |
-| **Описание**: Проект автоматизации тестирования веб-сайта компании СТД Петрович.                                                                         | **Описание**: Проект автоматизации тестирования компании Скандинавия.                                                                                    |
-| **Технологии**: Python, Selene, Allure, Jenkins, Appium, Postman.                                                                                        | **Технологии**: Python, Selene, Allure, Jenkins, Appium, Postman.                                                                                        |
-
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%;">
+      <a href="https://github.com/yarskii/petrovich">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yarskii&repo=petrovich&theme=tokyonight" alt="Petrovich" style="width: 100%;">
+      </a>
+      <p><strong>Описание</strong>: Проект автоматизации тестирования веб-сайта компании СТД Петрович.</p>
+      <p><strong>Технологии</strong>: Python, Selene, Allure, Jenkins, Appium, Postman.</p>
+    </td>
+    <td style="width: 50%;">
+      <a href="https://github.com/yarskii/avaclinic">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yarskii&repo=avaclinic&theme=tokyonight" alt="Avaclinic" style="width: 100%;">
+      </a>
+      <p><strong>Описание</strong>: Проект автоматизации тестирования компании Скандинавия.</p>
+      <p><strong>Технологии</strong>: Python, Selene, Allure, Jenkins, Appium, Postman.</p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <h2>Статистика</h2>
