@@ -58,7 +58,7 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarskii&repo=petrovich&theme=tokyonight)](https://github.com/yarskii/petrovich) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarskii&repo=avaclinic&theme=tokyonight)](https://github.com/yarskii/avaclinic) |
 | **Описание**: Проект автоматизации тестирования веб-сайта компании СТД Петрович.                                                                         | **Описание**: Проект автоматизации тестирования компании Скандинавия.                                                                                    |
-| **Технологии**: Python, Selene, Allure, Jenkins, Appium, Postman.                                                                                        | **Технологии**: Python, Selene, Allure, Jenkins, Appium, Postman.                                                                                        |
+| **Технологии**: <br/>Python, Selene, Allure, Jenkins, Appium, Postman.                                                                                        | **Технологии**: <br/>Python, Selene, Allure, Jenkins, Appium, Postman.                                                                                        |
 
 <div align="center">
   <h2>Статистика</h2>
